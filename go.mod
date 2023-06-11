@@ -3,7 +3,7 @@ module github.com/gopatchy/bus
 go 1.19
 
 require (
-	github.com/gopatchy/metadata v0.0.0-20230519040457-7a86a0fb5662
+	github.com/gopatchy/metadata v0.0.0-20230611025918-a5568e41335d
 	github.com/stretchr/testify v1.8.4
 	go.uber.org/goleak v1.2.1
 )
